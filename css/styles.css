@@ -1,0 +1,15 @@
+* {
+    border: 0px;
+}
+body {
+    background-color: rgb(22, 1, 70);
+    color:  white;
+}
+#actionScreen {
+    width: 80%;
+    height: 500px;
+    padding: 5px;
+    overflow-y: scroll;
+    background-color: black;
+    border: darkslategray 5px solid;
+}
